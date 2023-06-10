@@ -3,7 +3,7 @@
 **<span style="color:red">Read: Class 01 a 💻📗</span>**
 
  ***why this topic matters as it relates to what you are studying in this module?***
-
+    I want to know more about NPM, TDD, CI/CD for using them during this course
 
 **<span style="color:purple">An introduction to NodeJS and Express</span>**
 
@@ -66,6 +66,7 @@ It means the method of automatically deploying  the code in production after  co
 3. ### Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 GitHub  do an essential role in the process of continuous delivery and continuous deployment, because GitHub provides a system for version control, automation, and collaboration as well, as GitHub helps programmers store code in a repository that others can access, as GitHub allows programmers to track modifications and updates to code Effectively, as GitHub facilitates integration support, because there are tools that help in this, such as: Jenkins, CircleCI, for example, where these tools can be used and code analysis is performed whenever new changes are pushed to the GitHub repository. GitHub provides integrations and features to enable Continuous publishing, which helps programmers to deliver quickly and without delay, and easy to correct errors, if any, so GitHub helps work efficiently, quickly, and more reliably.
 
+___________
 ## Things I want to know more about: 😊
 Middleware, Express, CI/CD 
 

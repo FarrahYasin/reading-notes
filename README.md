@@ -8,3 +8,8 @@
 3. ## Code 301 - Intermediate Software Development
 
 4. ## Code 401 - Advanced Software Development
+
+
+### [Readings: Node Ecosystem](CLASS_01_A.md).
+
+### [Readings: Express, NPM, TDD, CI/CD](CLASS_01_A.md).

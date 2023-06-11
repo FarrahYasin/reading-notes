@@ -10,14 +10,14 @@
 4. ## Code 401 - Advanced Software Development
 
 __________________________________________
-***week1***
-
+## ***week1***
 
 
 ### Table Of Content:
-
 | Topic|Link |
 |:-|:-|:-|
 |Readings: Node Ecosystem| [Readings: Node Ecosystem](CLASS_01_A.md).|
 |Readings: Express, NPM, TDD, CI/CD|[Readings: Express, NPM, TDD, CI/CD](CLASS_01_B.md)|
+|Growth Mindset|[Growth Mindset](Growth_Mindset.md).
+|
 

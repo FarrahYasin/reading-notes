@@ -13,11 +13,11 @@ __________________________________________
 ## ***week1***
 
 
-### Table Of Content:
-| Topic|Link |
-|:-|:-|:-|
-|Readings: Node Ecosystem| [Readings: Node Ecosystem](CLASS_01_A.md).|
-|Readings: Express, NPM, TDD, CI/CD|[Readings: Express, NPM, TDD, CI/CD](CLASS_01_B.md)|
-|Growth Mindset|[Growth Mindset](Growth_Mindset.md).
-|
+### Table Of Contents:
+| Topic                           | Link                                                      |
+|---------------------------------|-----------------------------------------------------------|
+| Readings: Node Ecosystem        | [Readings: Node Ecosystem](CLASS_01_A.md)                 |
+| Readings: Express, NPM, TDD, CI/CD | [Readings: Express, NPM, TDD, CI/CD](CLASS_01_B.md)      |
+| Growth Mindset                  | [Growth Mindset](Growth_Mindset.md)                       |
+
 

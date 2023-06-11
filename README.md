@@ -10,6 +10,11 @@
 4. ## Code 401 - Advanced Software Development
 
 
-### [Readings: Node Ecosystem](CLASS_01_A.md).
 
-### [Readings: Express, NPM, TDD, CI/CD](CLASS_01_A.md).
+
+### Table Of Content:
+
+| Topic|Link |
+|:-|:-|:-|
+|Readings: Node Ecosystem| [Readings: Node Ecosystem](CLASS_01_A.md).|
+|Readings: Express, NPM, TDD, CI/CD|[Readings: Express, NPM, TDD, CI/CD](CLASS_01_B.md)|

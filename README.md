@@ -14,10 +14,10 @@ __________________________________________
 
 
 ### Table Of Contents:
-| Topic                           | Link                                                      |
+| Topic                           |                           Link                            |
 |---------------------------------|-----------------------------------------------------------|
 | Readings: Node Ecosystem        | [Readings: Node Ecosystem](Week1/CLASS_01_A.md)                 |
 | Readings: Express, NPM, TDD, CI/CD | [Readings: Express, NPM, TDD, CI/CD](Week1/CLASS_01_B.md)      |
 | Growth Mindset                  | [Growth Mindset](Growth_Mindset.md)                       |
-
+| Data Structures and Algorithms  | [Data Structures and Algorithms](Week1/PREP_DSA.md)                       |
 

@@ -9,7 +9,7 @@
 
 ### 1.What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
-I think the time that the algorithm take it to run (Time Complexity) of the that execute on data structure
+I think the time that the algorithm take it to run (Time Complexity) of the operations that execute on data structure
 _______________________
 
 ### 2.How can we ensure that we’ll avoid an infinite recursive call stack?

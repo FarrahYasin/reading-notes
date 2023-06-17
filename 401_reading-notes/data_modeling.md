@@ -3,6 +3,9 @@
 
 **<span style="color:red">Data Modeling💻📒</span>**
 
+ ***why this topic matters as it relates to what you are studying in this module?***
+Its very important to know about SQL and NOSQL to can I use the suitable database to store and manage the data 
+
 ____________________________________
 
 ### nosql vs sql:
@@ -20,7 +23,7 @@ NoSQL databases
 **SQL databases** has ability to (vertically scalable ), that mean we can manage the increasing load by add a lot of things such as,increase the RAM, CPU, SSD...on one single server onley.
 
 **NOSQL databases** has ability to (horizontally scalable), that mean we can add more than one server in our NOSQL databases infrastructure to deal with the huge traffic.
-__________________________________
+
 
 ### sql modeling techniques:
 
@@ -37,7 +40,6 @@ Before designing the relational database, it might be useful to **create** a **d
 **A primary key:** is a column or set of columns that uniquely identify each row in the table. in the table usually we have only one primary key but we can have more than one.
 
 **A foreign key:** is a column or set of columns that match a primary key in another table. The match between foreign keys and primary keys is what makes a relationship between them.
-__________________________________
 
 ### sql vs nosql:
 
@@ -61,7 +63,6 @@ An employee works for one company, and a company has many employees working for 
 
 **Many-to-Many Relationship:** Entries in both tables can be related to multiple entries in each other.
 example:An employee works on many projects, and a project has many employees working on it.
-__________________________________
 
 ## Things I want to know more about:
 

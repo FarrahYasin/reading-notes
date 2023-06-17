@@ -7,12 +7,9 @@
 
 3. ## Code 301 - Intermediate Software Development
 
-4. ## Code 401 - Advanced Software Development
-
 __________________________________________
 
-## ***week1***
-
+4. ## Code 401 - Advanced Software Development
 
 ### Table Of Contents:
 
@@ -24,5 +21,6 @@ __________________________________________
 | Data Structures and Algorithms  | [Data Structures and Algorithms](./401_reading-notes/PREP_DSA.md)|
 | Express Rest API| [Express Rest API](./401_reading-notes/CLASS02_E_REST_API.md)|
 | Linked Lists| [Linked Lists](./401_reading-notes/Linked_Lists.md)|
+| Data Modeling| [Data Modeling](./401_reading-notes/data_modeling.md)|
 
 

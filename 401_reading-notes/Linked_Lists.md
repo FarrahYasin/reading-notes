@@ -8,7 +8,7 @@ Linked list has a  dynamic and flexible way of organizing data and linked list m
 
 ## What is Linked List?
 
-linked list is a data structure, we use this data structure to store and orgsnize the (**Node**(collection of elements):contain value and pointer(this pointer refere to the next node in the list)).
+linked list is a data structure, we use this data structure to store and organize the (**Node**(collection of elements):contain value and pointer(this pointer refere to the next node in the list)).
 called the first node in the linked list( head), each node points to next node, but last node in the linked list points to null
 
 ## Why we use Linked List?

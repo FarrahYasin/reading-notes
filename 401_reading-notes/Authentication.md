@@ -4,7 +4,7 @@
 
   ***why this topic matters as it relates to what you are studying in this module?***
     To ensuring the security and integrity of applications.
-__________________________________________
+______________
 
 #### Securing Passwords
 
@@ -19,7 +19,8 @@ Bcrypt is a cryptographic algorithm that transforms a password into a hash. It u
 
 **3.** **Why might you use something like Bcrypt?**
 To increase the security of stored passwords,thats makes it extremely difficult for anyone to retrieve  the original passwords from the hashes.
-__________________________________________
+______________
+
 
 #### Basic Auth
 
@@ -31,7 +32,7 @@ The Authorization
 
 **3.** **How are username:password in Basic Auth encoded?**
 Using the Base64
-____________________________________________
+______________
 
 #### OWASP auth cheatsheet
 
@@ -44,7 +45,7 @@ because the error messaging is very important to help users to understand what t
 
 **3.** **Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.**
 OWASP fundamentals is very important. it is provides a set of guidelines and security controls to ensure protect user accounts and the sensitive information,by following OWASP recommendations, the developers can implement a strong password policies, and  protect against  attacks, and reduce the common risks.
-___________________________________________
+______________
 
 ## Things I want to know more about:
 

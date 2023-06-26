@@ -23,5 +23,5 @@ __________________________________________
 | Linked Lists| [Linked Lists](./401_reading-notes/Linked_Lists.md)|
 | Data Modeling| [Data Modeling](./401_reading-notes/data_modeling.md)|
 | Authentication| [Authentication](./401_reading-notes/Authentication.md)|
-
+| Bearer Authorization| [Bearer Authorization](./401_reading-notes/BearerAuthorization.md)|
 

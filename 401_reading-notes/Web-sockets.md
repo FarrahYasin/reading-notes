@@ -84,11 +84,11 @@ The TCP **(Transmission Control Protocol)** is a protocol used for transmitting 
 The three-way handshake process could be explained with an example. Suppose a client wants to get web pages from a server. Before the transmission of web pages, a TCP connection must be established.
 The three steps of the three-way handshake could be described as follows:
 
-**Step: 1:** The client sends a synchronization (SYN) segment to the server, asking for synchronization. This message asks the server to open a connection.
+>**Step: 1:** The client sends a synchronization (SYN) segment to the server, asking for synchronization. This message asks the server to open a connection.
 
-**Step: 2:** The server replies with a SYN-ACK (synchronization and acknowledgement) segment. It acknowledges the client's connection request and asks the client to open a connection.
+>**Step: 2:** The server replies with a SYN-ACK (synchronization and acknowledgement) segment. It acknowledges the client's connection request and asks the client to open a connection.
 
-**Step: 3:** The client replies with an ACK (acknowledgement) segment, confirming the connection. At this point, the two-way connection is established between the client and the server.
+>**Step: 3:** The client replies with an ACK (acknowledgement) segment, confirming the connection. At this point, the two-way connection is established between the client and the server.
 
 >The three-way handshake establishes a two-way communication channel between the client and the server, allowing them to exchange messages. The handshake ensures that both parties agree to open the connection and sets the initial sequence numbers for reliable data transmission. the client sends a segment with an initial sequence number, and the server responds with a SYN-ACK segment, which has its own sequence number. Finally, the client acknowledges the server's connection request, completing the handshake.
 

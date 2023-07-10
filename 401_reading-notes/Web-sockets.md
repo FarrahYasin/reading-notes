@@ -8,6 +8,7 @@ A Web Socket is a communication protocol thais Web Sockets provides full-duplex 
 
 ---
 
+
 > 2. **Describe the Web Socket request/response handshake and what happens once the connection is established.**
 >The Web Socket request/response handshake is the initial process for establishing a connection between a client and a server. It involves the following steps:
 >The client sends a WebSocket handshake request to the server, indicating its intent to establish a WebSocket connection. This request includes specific headers, such as "Upgrade" and "Connection," set to "websocket" and "Upgrade," respectively.

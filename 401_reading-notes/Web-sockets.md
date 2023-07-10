@@ -23,6 +23,7 @@ The Web Socket protocol provides a standardized way for real-time applications t
 Web Sockets provide a standardized way for the server to send content to a client without first receiving a **Request** from that client.
 
 ---
+
 ### Socket.io Tutorial
 >1. **What does the event handler io.on() do?**
 `io.on()` :  allowing for real-time communication and interaction between the server and clients.,`io.on()`used to define event handlers on the server side that respond to events emitted by connected clients.
@@ -30,6 +31,7 @@ The event handler `io.on()` in Socket.IO listens for incoming events on the serv
 ---
 
 >2. **Describe some possible proof of life or proof that the code works as expected**
+
 Error Handling, Event Logging, Real-Time Updates
 ---
 
@@ -42,12 +44,14 @@ By using `socket.emit()`, you can communicate with the server and send specific 
 ### Socket.io vs Web Sockets
 >1. **What is the difference between WebSocket and Socket.IO? (think Git and GitHub, or OAuth and Auth0).**
 WebSocket: is a low-level protocol for real-time communication, while Socket.IO is a higher-level library that provides more features and simplifies the development of real-time applications by abstracting WebSocket and providing fallback options also.
+
 ---
 
 >2. **When would you use Socket.IO?**
 is  used when we need a real-time, bidirectional communication is required between a server and multiple clients.
 It is suitable for applications that require instant updates, such as chat applications, collaborative tools, real-time analytics, and multiplayer games.
 Socket.IO provides a simpler and more user-friendly API compared to raw WebSocket, and it handles fallback mechanisms automatically.
+
 ---
 
 >3. **When would you use WebSockets?**
@@ -72,14 +76,18 @@ the important Idea OSI model is that each layer performs a specific set of tasks
 if we understanding the OSI model, network engineers and developers can better analyze and troubleshoot network issues, design protocols, and ensure compatibility between different networking technologies.
 
 ---
+
 >### TCP Handshakes Explained
 
 > video explains the TCP three-way handshake, which is a process used to establish reliable and connection-oriented communication between a client and a server.
 The TCP **(Transmission Control Protocol)** is a protocol used for transmitting data reliably. Many applications such as web, email, and FTP use TCP for data transmission.
 The three-way handshake process could be explained with an example. Suppose a client wants to get web pages from a server. Before the transmission of web pages, a TCP connection must be established.
 The three steps of the three-way handshake could be described as follows:
+
 **Step: 1:** The client sends a synchronization (SYN) segment to the server, asking for synchronization. This message asks the server to open a connection.
+
 **Step: 2:** The server replies with a SYN-ACK (synchronization and acknowledgement) segment. It acknowledges the client's connection request and asks the client to open a connection.
+
 **Step: 3:** The client replies with an ACK (acknowledgement) segment, confirming the connection. At this point, the two-way connection is established between the client and the server.
 
 >The three-way handshake establishes a two-way communication channel between the client and the server, allowing them to exchange messages. The handshake ensures that both parties agree to open the connection and sets the initial sequence numbers for reliable data transmission. the client sends a segment with an initial sequence number, and the server responds with a SYN-ACK segment, which has its own sequence number. Finally, the client acknowledges the server's connection request, completing the handshake.

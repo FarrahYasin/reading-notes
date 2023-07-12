@@ -26,6 +26,7 @@ __________________________________________
 | Bearer Authorization| [Bearer Authorization](./401_reading-notes/BearerAuthorization.md)|
 | Access Control (ACL)| [Access Control (ACL)](./401_reading-notes/Access_Control.md)|
 | Stack & Queue| [Stack&Queue](./401_reading-notes/Stack&Queue.md)|
-| Event_Driven_Applications| [Event_Driven_Applications](./401_reading-notes/Event_Driven_Applications)|
-| Web-sockets| [Web-sockets](./401_reading-notes/Web-sockets)|
-| Massage_Queue| [Massage_Queue](./401_reading-notes/Massage_Queue)|
+| Event_Driven_Applications| [Event_Driven_Applications](./401_reading-notes/Event_Driven_Applications.md)|
+| Web-sockets| [Web-sockets](./401_reading-notes/Web-sockets.md)|
+| Message_Queues| [Massage_Queue](./401_reading-notes/Massage_Queue.md)|
+

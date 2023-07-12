@@ -28,3 +28,5 @@ __________________________________________
 | Stack & Queue| [Stack&Queue](./401_reading-notes/Stack&Queue.md)|
 | Event_Driven_Applications| [Event_Driven_Applications](./401_reading-notes/Event_Driven_Applications.md)|
 | Web-sockets| [Web-sockets](./401_reading-notes/Web-sockets.md)|
+| Message_Queues| [Message_Queues](./401_reading-notes/Message_Queue.md)|
+

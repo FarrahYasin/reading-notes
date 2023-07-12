@@ -28,3 +28,4 @@ __________________________________________
 | Stack & Queue| [Stack&Queue](./401_reading-notes/Stack&Queue.md)|
 | Event_Driven_Applications| [Event_Driven_Applications](./401_reading-notes/Event_Driven_Applications)|
 | Web-sockets| [Web-sockets](./401_reading-notes/Web-sockets)|
+| Massage_Queue| [Massage_Queue](./401_reading-notes/Massage_Queue)|

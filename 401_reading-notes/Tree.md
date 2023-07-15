@@ -1,6 +1,7 @@
 ## Trees
 
 ![Alt text](image.png)
+
 **what is the Tree?**
 A tree consists of nodes, where each node holds data and references to its child nodes. Connections between nodes are represented by edges. The root node is the topmost node and serves as the starting point for accessing the tree. Nodes can have zero or more child nodes, except for the root node.
 

@@ -47,6 +47,7 @@ T2 Micro is a smaller instance with lower CPU and memory resources, suitable for
 ---
 
 >3. **Name some benefits of using Elastic Beanstalk.**
+
 >**Monitoring and Logging:** Elastic Beanstalk provides built-in monitoring and logging capabilities, allowing developers to gain insights into the performance and health of their applications. It integrates with AWS CloudWatch, which enables tracking of metrics, setting up alarms, and analyzing logs.
 >**Ease of Deployment:** Elastic Beanstalk simplifies the process of deploying web applications by automating the underlying infrastructure setup, such as provisioning EC2 instances, load balancers, and network configurations.
 >**Security and Patching:** Elastic Beanstalk simplifies security by providing secure defaults and allowing easy integration with AWS security services. It also automates the process of applying security patches and updates to the underlying infrastructure, reducing the burden on developers.

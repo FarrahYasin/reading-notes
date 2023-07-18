@@ -60,6 +60,7 @@ T2 Micro is a smaller instance with lower CPU and memory resources, suitable for
 >**Ease of Deployment:** Elastic Beanstalk simplifies the process of deploying web applications by automating the underlying infrastructure setup, such as provisioning EC2 instances, load balancers, and network configurations.
 
 >**Security and Patching:** Elastic Beanstalk simplifies security by providing secure defaults and allowing easy integration with AWS security services. It also automates the process of applying security patches and updates to the underlying infrastructure, reducing the burden on developers.
+
 >**Multiple Language and Platform Support:** Elastic Beanstalk supports multiple programming languages and platforms, including Java, .NET, Node.js, Python, and more. It provides predefined configurations and environments tailored to each platform, making it easier to deploy and manage applications developed in different languages.
 
 ---

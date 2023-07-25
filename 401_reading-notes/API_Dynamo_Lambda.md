@@ -4,19 +4,16 @@
 
 >#### AWS API Gateway Overview
 >**1. What is Amazon API Gateway?**
->
 >Amazon API Gateway is a fully managed service provided by AWS that allows developers to create, deploy, manage, and secure APIs (Application Programming Interfaces) to enable communication between different software applications or services.
->---
+
 >**2. Why is Amazon API Gateway an important part of the Serverless ecosystem?**
 >
 >Amazon API Gateway:crucial in the Serverless ecosystem because it acts as the entry point for serverless applications. It enables serverless functions like AWS Lambda, to be triggered by incoming API requests, facilitating the creation of scalable and event-driven serverless architectures.
->--
->
+
 >**3. How does API Gateway integrate with other AWS services?**
->
->API Gateway can seamlessly integrate with other AWS services, such as AWS Lambda, Amazon DynamoDB, and more. It allows developers to define APIs that trigger serverless functions, store data in databases, and interact with various AWS resources, providing a comprehensive and flexible way to build powerful serverless applications.
->---
-#### AWS API Gateway
+API Gateway can seamlessly integrate with other AWS services, such as AWS Lambda, Amazon DynamoDB, and more. It allows developers to define APIs that trigger serverless functions, store data in databases, and interact with various AWS resources, providing a comprehensive and flexible way to build powerful serverless applications.
+
+>#### AWS API Gateway
 >
 >**1. What are some benefits of using Amazon API Gateway?**
 >
@@ -30,18 +27,18 @@ Seamless integration with AWS services.
 >REST APIs (Representational State Transfer).
 WebSocket APIs for real-time, two-way communication.
 AWS DynamoDB Guide
->---
+---
 >**1. What is DynamoDB?**
 >DynamoDB is a fully managed NoSQL database service provided by Amazon Web Services (AWS). It is designed to store and retrieve any amount of data, and it offers high performance, scalability, and reliability.
->---
+---
 >**2. Under what circumstances would you recommend DynamoDB over MongoDB?**
 >
 >Choose DynamoDB over MongoDB when we need a fully managed, highly scalable, and high-performance database solution, especially for applications with variable and unpredictable workloads. DynamoDB is suitable for scenarios where we prioritize automatic scaling, seamless integration with AWS services, and minimal administrative overhead.
->---
+---
 >#### AWS DynamoDB
 >
 >Explain to a non-technical friend how DynamoDB works.
-DynamoDB is a database service provided by Amazon Web Services (AWS). It stores and retrieves data in a structured way, like a digital table. It scales automatically to handle large amounts of data and high traffic, making it fast and reliable. It uses a unique key to access data quickly and allows you to add, update, or delete information easily. This way, it helps businesses manage and access their data efficiently without worrying about infrastructure management.
+>DynamoDB is a database service provided by AWS. It stores and retrieves data in a structured way, like a digital table. It scales automatically to handle large amounts of data and high traffic, making it fast and reliable. It uses a unique key to access data quickly and allows you to add, update, or delete information easily. This way, it helps businesses manage and access their data efficiently without worrying about infrastructure management.
 
 >#### Dynamoose
 >

@@ -32,18 +32,15 @@ AWS DynamoDB Guide
 >DynamoDB is a fully managed NoSQL database service provided by Amazon Web Services (AWS). It is designed to store and retrieve any amount of data, and it offers high performance, scalability, and reliability.
 ---
 >**2. Under what circumstances would you recommend DynamoDB over MongoDB?**
->
 >Choose DynamoDB over MongoDB when we need a fully managed, highly scalable, and high-performance database solution, especially for applications with variable and unpredictable workloads. DynamoDB is suitable for scenarios where we prioritize automatic scaling, seamless integration with AWS services, and minimal administrative overhead.
 ---
 >#### AWS DynamoDB
->
 >Explain to a non-technical friend how DynamoDB works.
 >DynamoDB is a database service provided by AWS. It stores and retrieves data in a structured way, like a digital table. It scales automatically to handle large amounts of data and high traffic, making it fast and reliable. It uses a unique key to access data quickly and allows you to add, update, or delete information easily. This way, it helps businesses manage and access their data efficiently without worrying about infrastructure management.
 
 >#### Dynamoose
 >
 >**1. What is Dynamoose?**
->
 Dynamoose is an npm library that provides an easy-to-use modeling and validation framework for working with Amazon DynamoDB in Node.js applications.
 >
 >**2. What are some key features of Dynamoose?**

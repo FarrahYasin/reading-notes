@@ -36,6 +36,7 @@ __________________________________________
 |AWS_Events| [AWS_Events](./401_reading-notes/AWS_Events.md)|
 |Component Based UI| [Component Based UI](./401_reading-notes/Component_Based_UI.md)|
 |useState()Hook| [useState()Hook](./401_reading-notes/useStateHook.md)|
+|useEffect()Hook| [useEffect()Hook](./401_reading-notes/useEffectHook.md)|
 
 
 

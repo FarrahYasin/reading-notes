@@ -37,6 +37,7 @@ __________________________________________
 |Component Based UI| [Component Based UI](./401_reading-notes/Component_Based_UI.md)|
 |useState()Hook| [useState()Hook](./401_reading-notes/useStateHook.md)|
 |useEffect()Hook| [useEffect()Hook](./401_reading-notes/useEffectHook.md)|
+|Advanced State with Reducers| [Advanced State with Reducers](./401_reading-notes/Advanced_State_with_Reducers.md)|
 
 
 

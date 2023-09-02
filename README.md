@@ -38,6 +38,7 @@ __________________________________________
 |useState()Hook| [useState()Hook](./401_reading-notes/useStateHook.md)|
 |useEffect()Hook| [useEffect()Hook](./401_reading-notes/useEffectHook.md)|
 |Advanced State with Reducers| [Advanced State with Reducers](./401_reading-notes/Advanced_State_with_Reducers.md)|
+|Context API| [Context API](./401_reading-notes/Context_APIs.md)|
 
 
 

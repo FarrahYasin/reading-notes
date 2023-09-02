@@ -9,6 +9,7 @@ These principles aim to simplify state management, minimize errors, and promote 
 >3. Prevent Redundant State: If you can compute data from component props or existing state during rendering, avoid storing it redundantly in the component's state.
 >4. Minimize State Duplication: Reduce the occurrence of identical data across multiple state variables or nested objects to prevent synchronization complexities.
 >5. Simplify State Nesting: Keep the state structure relatively flat rather than deeply hierarchical, as deeply nested state can be challenging to update and manage efficiently.
+
 ---
 
 >#### Passing State Deeply with Context:

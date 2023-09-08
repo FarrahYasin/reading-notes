@@ -6,14 +6,14 @@ Role-Based Access Control (RBAC) is a method used to administer and regulate acc
 **2. Share some an example of RBAC including all possible CRUD operations and correlating roles.**
 Here is an illustrative RBAC scenario for a hypothetical content management system:
 
-### Roles:
+#### Roles:
 
 * Administrator: This role has complete control over the system and can execute all CRUD operations.
 * Editor: Editors can create, read, and update content but lack the authority to delete it.
 * Viewer: Viewers can only read content but are unable to make any changes.
 * Guest: Guests have no access to the content management system.
 
-### CRUD Operations & Associated Permissions:
+##### CRUD Operations & Associated Permissions:
 
 * 1. Create:
 

@@ -17,31 +17,43 @@ Here is an illustrative RBAC scenario for a hypothetical content management syst
 
 * 1. Create:
 
-Administrator: Can create new content.
-Editor: Can create new content.
-Viewer: No permission to create content.
-Guest: No permission to create content.
+>**Administrator: Can create new content.**
+
+>**Editor: Can create new content.**
+
+>**Viewer: No permission to create content.**
+
+>**Guest: No permission to create content.**
 
 * 2. Read:
 
-Administrator: Can read all content.
-Editor: Can read all content.
-Viewer: Can read all content.
-Guest: Can read all content (publicly accessible content only).
+>**Administrator: Can read all content.**
+>
+>**Editor: Can read all content.**
+>
+>**Viewer: Can read all content.**
+>
+>**Guest: Can read all content (publicly accessible content only).**
 
 * 3. Update:
 
-Administrator: Can update all content.
-Editor: Can update all content.
-Viewer: No permission to update content.
-Guest: No permission to update content.
+>**Administrator: Can update all content.**
+>
+>**Editor: Can update all content.**
+>
+>**Viewer: No permission to update content.**
+>
+>**Guest: No permission to update content.**
 
 * 4. Delete:
 
-Administrator: Can delete all content.
-Editor: No permission to delete content.
-Viewer: No permission to delete content.
-Guest: No permission to delete content.
+>**Administrator: Can delete all content.**
+>
+>**Editor: No permission to delete content.**
+>
+>**Viewer: No permission to delete content.**
+>
+>**Guest: No permission to delete content.**
 
 **3. What are the Benefits of RBAC?**
 
@@ -53,7 +65,7 @@ Guest: No permission to delete content.
 
 **Comparison of Two Libraries: react-cookie and react-cookies**
 
-react-cookie is a comprehensive library for managing cookies within React applications, offering full control over cookie creation, reading, updating, and deletion. In contrast, react-cookies is a smaller utility primarily focused on reading cookie values. The choice between the two depends on your specific requirements, whether you need full cookie management capabilities or simply the ability to retrieve cookie data in your React components.
+* react-cookie is a comprehensive library for managing cookies within React applications, offering full control over cookie creation, reading, updating, and deletion. In contrast, react-cookies is a smaller utility primarily focused on reading cookie values. The choice between the two depends on your specific requirements, whether you need full cookie management capabilities or simply the ability to retrieve cookie data in your React components.
 
 **1. Describe some react-cookie features..**
 
@@ -72,4 +84,5 @@ react-cookie is a comprehensive library for managing cookies within React applic
 * No React-Specific Features: Unlike react-cookie, react-cookies doesn't provide React-specific hooks or components; it's a more general-purpose cookie management library.
 
 **3. Which library would you prefer would you prefer? Why?**
-I would recommend using react-cookie as the preferred choice for managing cookies in React. This recommendation is based on its seamless integration with React, support for server-side rendering, TypeScript compatibility, and its active community. React-cookie simplifies cookie management within the React ecosystem, providing a comprehensive set of features that align well with React's development patterns.
+
+* I would recommend using react-cookie as the preferred choice for managing cookies in React. This recommendation is based on its seamless integration with React, support for server-side rendering, TypeScript compatibility, and its active community. React-cookie simplifies cookie management within the React ecosystem, providing a comprehensive set of features that align well with React's development patterns.

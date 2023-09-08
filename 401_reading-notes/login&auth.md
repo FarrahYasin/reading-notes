@@ -17,13 +17,13 @@ Here is an illustrative RBAC scenario for a hypothetical content management syst
 
 * 1. Create:
 
->**Administrator: Can create new content.**
+>**Administrator ➡ Can create new content.**
 
->**Editor: Can create new content.**
+>**Editor ➡ Can create new content.**
 
->**Viewer: No permission to create content.**
+>**Viewer ➡ No permission to create content.**
 
->**Guest: No permission to create content.**
+>**Guest ➡ permission to create content.**
 
 * 2. Read:
 

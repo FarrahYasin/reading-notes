@@ -13,17 +13,17 @@ Here is an illustrative RBAC scenario for a hypothetical content management syst
 * Viewer: Viewers can only read content but are unable to make any changes.
 * Guest: Guests have no access to the content management system.
 
-### CRUD Operations and Associated Permissions:
+### CRUD Operations & Associated Permissions:
 
 * 1. Create:
 
->**Administrator ➡ Can create new content.**
+>**Administrator: Can create new content.**
 
->**Editor ➡ Can create new content.**
+>**Editor: Can create new content.**
 
->**Viewer ➡ No permission to create content.**
+>**Viewer: No permission to create content.**
 
->**Guest ➡ permission to create content.**
+>**Guest: permission to create content.**
 
 * 2. Read:
 

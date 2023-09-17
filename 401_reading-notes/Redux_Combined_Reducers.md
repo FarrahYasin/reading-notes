@@ -43,10 +43,10 @@
 
 **1. Why will you want to split your reducing functions as your app becomes more complex?**
 >* **Partitioning reducing functions in a sophisticated application provides advantages in terms of modularity, comprehensibility, testability, scalability, code reuse, debugging, collaboration, performance, and the overall sustainability of the codebase. This method fosters a more structured, controllable, and sustainable system for managing state as your application expands and develops.**
->
+
 **2. The _____ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to ____.**
 >* **The combineReducers utility function transforms an object containing various reducing functions into a unified reducing function that you can subsequently provide as an argument to the Redux createStore function.**
->
+
 **3. What is a popular convention when naming reducers?**
 >* **A prevalent convention for naming reducers within Redux entails the following guidelines:**
 >

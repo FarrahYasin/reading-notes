@@ -45,6 +45,7 @@ __________________________________________
 |API Integration| [API Integration](./401_reading-notes/API_Integration.md)|
 |Application State with Redux| [Application State with Redux](./401_reading-notes/Application_State_with_Redux.md)|
 |Redux Combined Reducers| [Redux Combined Reducers](./401_reading-notes/Redux_Combined_Reducers.md)|
+|Redux_Asynchronous_Actions| [Redux_Asynchronous_Actions](./401_reading-notes/Redux_Asynchronous_Actions.md)|
 
 
 

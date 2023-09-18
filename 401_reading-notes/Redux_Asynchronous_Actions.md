@@ -3,7 +3,7 @@
 #### async actions
 **1.Why use Redux middleware?**
 >Redux middleware serves the purpose of intercepting and managing actions before they reach the reducer. It offers a means to introduce additional logic or side effects into your Redux application. Common scenarios for using middleware include handling asynchronous actions, logging, routing, and more. Middleware provides a way to extend and customize Redux's behavior without cluttering your reducers with intricate logic.
->
+
 **2.Consider the Redux Async Data Flow Diagram. Describe the flow in your own words.**
 >In the Redux Async Data Flow, when you dispatch an asynchronous action, it typically goes through the following steps:
 >
@@ -29,6 +29,7 @@
 >Redux Thunk middleware becomes necessary when you need to create action creators that return a function instead of a direct action object. This function, known as a thunk, can contain asynchronous code. You use Redux Thunk middleware when you want to dispatch actions that rely on the outcomes of asynchronous operations, such as API requests.
 >
 **2.Redux Thunk middleware allows you to write action creators that return a ____ instead of an action.**
+>
 >function
 >
 **3.Describe how any return value from the inner thunk function will be made available.**

@@ -19,7 +19,7 @@
 >
 >* Reducer: Finally, after the asynchronous operation concludes, or any other pertinent actions are dispatched, the reducer is invoked. The reducer updates the state based on the received actions.
 >
->
+
 **3.How are we accommodating async in our Redux app?**
 >In Redux applications, we commonly handle asynchronous operations, like fetching data from an API, by employing middleware, such as Redux Thunk.
 >
@@ -28,10 +28,11 @@
 **1.Why would you need redux-thunk middleware?**
 >Redux Thunk middleware becomes necessary when you need to create action creators that return a function instead of a direct action object. This function, known as a thunk, can contain asynchronous code. You use Redux Thunk middleware when you want to dispatch actions that rely on the outcomes of asynchronous operations, such as API requests.
 >
+
 **2.Redux Thunk middleware allows you to write action creators that return a ____ instead of an action.**
 >
 >function
->
+
 **3.Describe how any return value from the inner thunk function will be made available.**
 >Typically, the return value from the inner thunk function is a promise. Redux Thunk handles this promise automatically. When the asynchronous operation within the thunk completes (e.g., when an API request finishes), Redux Thunk dispatches the appropriate actions based on the outcome of that operation. This facilitates the dispatching of actions to indicate success or failure and allows for updating the Redux store accordingly.
 >

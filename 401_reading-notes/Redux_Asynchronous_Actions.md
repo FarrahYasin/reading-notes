@@ -23,7 +23,7 @@
 **3.How are we accommodating async in our Redux app?**
 >In Redux applications, we commonly handle asynchronous operations, like fetching data from an API, by employing middleware, such as Redux Thunk.
 >
-### thunk middleware
+#### thunk middleware
 
 **1.Why would you need redux-thunk middleware?**
 >Redux Thunk middleware becomes necessary when you need to create action creators that return a function instead of a direct action object. This function, known as a thunk, can contain asynchronous code. You use Redux Thunk middleware when you want to dispatch actions that rely on the outcomes of asynchronous operations, such as API requests.

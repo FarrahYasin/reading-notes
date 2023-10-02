@@ -48,6 +48,7 @@ __________________________________________
 |Redux_Asynchronous_Actions| [Redux_Asynchronous_Actions](./401_reading-notes/Redux_Asynchronous_Actions.md)|
 |Redux_Additional_Topics| [Redux_Additional_Topics](./401_reading-notes/Redux_Additional_Topics.md)|
 |React_Native| [React_Native](./401_reading-notes/React_Native.md)|
+|Ethics| [Ethics](./401_reading-notes/Ethics.md)|
 
 
 
